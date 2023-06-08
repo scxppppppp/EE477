@@ -1,0 +1,15 @@
+General Lab GuidelinesGeneral Lab Guidelines
+1) For each lab, you should write a README file, named “readme.pdf” 
+(or name it according to the assignments naming instructions if any). A README file typically contains information of students’s name, USC student ID, and email, a brief program summary, references and instructions.
+Besides, include any information that you think the course staff, especially the grader should know while grading your assignment: references, any non‐working part, any concerns, etc.:
+a) Any non‐working part should be clearly stated.
+b) To avoid any issue related to Academic Integrity Policies of this course usc (Posted under the Syllabus), you should state the resources (online, book, paper). 
+The citations should be done carefully and clearly, e.g.: “to write my code, lines 27 to 65, I used the Diijkstra's shortest path algorithm verilog code from the following website: www.SampleWebsite.com/ ...”
+c) The Readme file content of labs cannot be hand‐written and should only be typed.
+2) Please
+Name all your files as specified by the assignment and precede all the file names by your student ID. E.g., for a student with ID 851112055, the Astar2D.cpp should be named 851112055Astar2D.cpp  
+Try your best to make your codes clear and readable. If your program cannot pass the test and the code is hard to read as well, you will get low grades.
+3) We generally do not provide a solution for the labs, because the solution to lab assignments is not unique and we know from our previous experiences that posting a sample code, would at times mislead, instead of helping students. 
+Instead, check your own code. If it's working, then that is good, but always try to look for more optimization on your code with guidance from the instructor, TA/mentor, or discussion forums. If your code does not work, show it to the TA/mentor to see if they have any comments to help you debug. 
+4) We generally do not get a chance to debug your code, because debugging take a long time and goes beyond our office hours, and that usually there are other students waiting during office hours. 
+In any case, during our office hours we will try our best to give you some tips and suggestions on how to debug. 

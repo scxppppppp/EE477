@@ -1,0 +1,19 @@
+radix 1   1   1   1   1   1   1   1
+vname D_3 D_2 D_1 D_0 d3  d2  d1  d0
+io    i   i   i   i   i   i   i   i
+
+tunit 1ns
+vih 1
+vil 0
+voh 1
+vol 0
+trise 10p
+tfall 10p
+
+tdelay 0 0 0 0 0 0 0 0 0
+
+0   1 1 1 1 0 0 1 0
+
+6   1 0 0 0 0 1 0 1
+
+12  0 0 0 0 0 0 0 1

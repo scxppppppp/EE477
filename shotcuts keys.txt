@@ -1,0 +1,10 @@
+e control window
+
+shift f  into symbol to see layout
+ctrl f   out layout to symbol
+
+
+
+windows-assistant-nevigator to get the output in the ade analysis
+m to plot the wave
+press a/b to plot the wave and make a difference between the
